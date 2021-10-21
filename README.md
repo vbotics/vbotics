@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbotics?count_private=true&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbotics?&count_private=true&show_icons=true&theme=github_dark)
 
 Want to get cool status like this? See [here](https://github.com/anuraghazra/github-readme-stats).
 

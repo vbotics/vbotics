@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a final year Ph.D researcher at the University of Groningen.
+- If you like to know more about my work, please look at my [website](https://vishalr.net).
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbotics&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_rank=true)
 
 Want to get cool status like this? See [here](https://github.com/anuraghazra/github-readme-stats).

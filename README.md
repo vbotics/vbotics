@@ -1,22 +1,91 @@
-### Hi there 👋
+# Hey 👋 I’m Vishal
 
-- I'm a final year Ph.D researcher at the University of Groningen.
-- If you like to know more about my work, please look at my [website](https://vishalr.net).
+I’m a hands-on engineer with a **founding-CTO mindset**, currently based in **India**, building real-world systems where **embedded hardware, robotics, and edge AI** come together.
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbotics&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_rank=true)
+I enjoy living close to the metal - firmware, electronics, control systems and pushing intelligence onto devices that have real constraints. My work usually starts with messy real-world requirements and ends with systems that are reliable, maintainable, and actually ship.
 
-Want to get cool status like this? See [here](https://github.com/anuraghazra/github-readme-stats).
+---
 
-<!--
-Here are some ideas to get you started:
+## What I Do Now
+I’m currently working at **EyeROV** as **Senior Manager – R&D**, leading and building systems across:
+- Embedded firmware & hardware platforms
+- Robotics and underwater systems
+- Sensor-heavy architectures and control loops
+- Edge AI integrations for real deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A big part of my role is making sure ideas move cleanly from **concept → prototype → field-ready product**.
+
+---
+
+## What I Work On
+- Embedded system design (bring-up to production)
+- Robotics platforms (ROVs, autonomous & sensor-driven systems)
+- On-device AI/ML (edge inference, optimization)
+- Architecture decisions that balance performance, cost, and long-term sanity
+- Translating research ideas into deployable engineering
+
+---
+
+## Tools & Tech I’m Comfortable With
+
+### Embedded & Hardware
+STM32, ESP32, RP2040, NVIDIA Jetson  
+Bare-metal & FreeRTOS  
+I2C, SPI, UART, CAN, PWM  
+IMUs, depth sensors, cameras, custom sensor stacks
+
+### Robotics
+ArduPilot / ArduSub  
+MAVLink  
+ROS / ROS2  
+Control systems, navigation, system integration
+
+### Edge AI
+TensorFlow Lite / TFLite Micro  
+PyTorch (training → deployment)  
+OpenCV  
+Quantization & optimization for constrained hardware
+
+### Software & Systems
+C / C++ / Python  
+Linux  
+Git, CI/CD  
+Docker (mostly for ML workflows)
+
+---
+
+## Background (Short Version)
+I’ve spent the last several years working across **embedded systems, robotics, and applied AI**, including:
+- A PhD focused on **powered prosthetics and control systems**
+- Aerospace-grade embedded development (flight software & sensor systems)
+- Research work with 9+ peer-reviewed publications
+- Leading R&D teams building real products
+
+My bias has always been toward **systems that work outside the lab**.
+
+---
+
+## What You’ll See Here
+I’m actively shaping this GitHub into a practical portfolio of:
+- Embedded & edge-AI reference implementations
+- Robotics and control experiments
+- Custom extensions and tools (especially around ArduPilot / ArduSub)
+- Notes and patterns I reuse across projects and teams
+
+Expect pragmatic code, not throwaway demos.
+
+---
+
+## Outside of Work
+When I’m not debugging hardware or tuning control loops:
+- I aquascape planted tanks (@bobosaquaworld)
+- 3D print and prototype ideas
+- Sketch, animate, and occasionally pick up a guitar
+
+---
+
+## Find Me Elsewhere
+- 🌐 Website: https://vishalr.net  
+- 💻 GitHub: https://github.com/vbotics  
+
+If you’re building something involving **robotics, embedded systems, or edge intelligence**, we’ll probably have a lot to talk about.
